@@ -31,4 +31,4 @@ The project resulted in a maintainable and extensible **object-oriented system**
 ✅ Git Version Control & Documentation  
 
 ---
-🔗 **GitHub Repository:** https://github.com/mmubashirshah/Java-OOP-Game-Development
+🔗 **GitHub Repository:** [Java-OOP-Game-Development](https://github.com/mmubashirshah/Java-OOP-Game-Development)
